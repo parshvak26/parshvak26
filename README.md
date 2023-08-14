@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg))](https://www.linkedin.com/in/parshva-karani/)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_102988806_vector-line-web-concept-for-programming-linear-web-banner-for-coding.html&psig=AOvVaw0XDB9JVN7JoCaUQurXpttm&ust=1692107790591000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCC7e6m3IADFQAAAAAdAAAAABAE))](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Parshva karani</h1>
 <h3 align="center">A passionate Data Scientist/Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg">
